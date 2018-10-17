@@ -3432,4 +3432,27 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>dipstick</n
+		<name>dipstick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>966</xmin>
+			<ymin>632</ymin>
+			<xmax>985</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dipstick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>732</ymin>
+			<xmax>92</xmax>
+			<ymax>758</ymax>
+		</bndbox>
+	</object>
+</annotation>

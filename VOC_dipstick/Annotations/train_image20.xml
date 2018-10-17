@@ -10,6 +10,7 @@
 		<height>768</height>
 		<depth>3</depth>
 	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>dipstick</name>
 		<pose>Unspecified</pose>
