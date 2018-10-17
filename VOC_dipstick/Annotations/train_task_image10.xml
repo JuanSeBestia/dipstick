@@ -1,9 +1,9 @@
 <annotation verified="yes">
-	<folder>VOC_dipstick</folder>
+	<folder>JPEGImages</folder>
 	<filename>train_task_image10.jpg</filename>
 	<path>VOC_dipstick/JPEGImages/train_task_image10.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>VOC_dipstick</database>
 	</source>
 	<size>
 		<width>576</width>
