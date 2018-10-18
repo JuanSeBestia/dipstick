@@ -1,71 +1,71 @@
-train_image10
-train_image11
-train_image12
-train_image13
-train_image14
-train_image15
-train_image16
-train_image17
-train_image18
-train_image19
-train_image1
-train_image20
-train_image21
-train_image22
-train_image23
-train_image24
-train_image25
-train_image26
-train_image27
-train_image28
-train_image29
-train_image2
-train_image30
-train_image31
-train_image32
-train_image33
-train_image34
-train_image35
-train_image36
-train_image37
-train_image38
-train_image39
-train_image3
-train_image40
-train_image41
-train_image42
-train_image43
-train_image44
-train_image45
-train_image46
-train_image47
-train_image48
-train_image49
-train_image4
-train_image50
-train_image51
-train_image52
-train_image53
-train_image54
-train_image55
-train_image56
-train_image57
-train_image58
-train_image59
-train_image5
-train_image60
-train_image6
-train_image7
-train_image8
-train_image9
-train_task_image101
-train_task_image104
-train_task_image106
-train_task_image107
-train_task_image108
-train_task_image10
-train_task_image15
-train_task_image19
-train_task_image22
-train_task_image23
-train_task_image35
+train_image10 -1
+train_image11 -1
+train_image12 -1
+train_image13 -1
+train_image14 -1
+train_image15 -1
+train_image16 -1
+train_image17 -1
+train_image18 -1
+train_image19 -1
+train_image1 -1
+train_image20 -1
+train_image21 -1
+train_image22 -1
+train_image23 -1
+train_image24 -1
+train_image25 -1
+train_image26 -1
+train_image27 -1
+train_image28 -1
+train_image29 -1
+train_image2 -1
+train_image30 -1
+train_image31 -1
+train_image32 -1
+train_image33 -1
+train_image34 -1
+train_image35 -1
+train_image36 -1
+train_image37 -1
+train_image38 -1
+train_image39 -1
+train_image3 -1
+train_image40 -1
+train_image41 -1
+train_image42 -1
+train_image43 -1
+train_image44 -1
+train_image45 -1
+train_image46 -1
+train_image47 -1
+train_image48 -1
+train_image49 -1
+train_image4 -1
+train_image50 -1
+train_image51 -1
+train_image52 -1
+train_image53 -1
+train_image54 -1
+train_image55 -1
+train_image56 -1
+train_image57 -1
+train_image58 -1
+train_image59 -1
+train_image5 -1
+train_image60 -1
+train_image6 -1
+train_image7 -1
+train_image8 -1
+train_image9 -1
+train_task_image101 -1
+train_task_image104 -1
+train_task_image106 -1
+train_task_image107 -1
+train_task_image108 -1
+train_task_image10 -1
+train_task_image15 -1
+train_task_image19 -1
+train_task_image22 -1
+train_task_image23 -1
+train_task_image35 -1
