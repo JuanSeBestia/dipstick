@@ -1,9 +1,9 @@
 <annotation>
 	<folder>JPEGImages</folder>
 	<filename>valid_task_image100.jpg</filename>
-	<path>VOC_dipstick_512/JPEGImages/valid_task_image100.jpg</path>
+	<path>VOC_dipstick_512_512_512/JPEGImages/valid_task_image100.jpg</path>
 	<source>
-		<database>VOC_dipstick_512</database>
+		<database>VOC_dipstick_512_512_512</database>
 	</source>
 	<size>
 		<width>512</width>
