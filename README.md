@@ -28,7 +28,7 @@ done
 ArrayName=(*)
 for var in "${ArrayName[@]}"
 do
-echo "${var/\.xml/}" >> ../ImageSets/Main/valid.txt
+echo "${var/\.xml/}" >> ../ImageSets/Main/all.txt
 done
 
 ```
