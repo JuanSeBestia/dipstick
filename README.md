@@ -8,7 +8,7 @@
 
 The images are of minimum 512 pixels and maximum 1024 pixels of withd or height, in some images it is obfuscated with black patches, because there were too many very small rods.
 
-![VOC_dipstick/JPEGImages/train_image44.jpg](/home/inkremental-3/gitKraken/dipstick/VOC_dipstick/JPEGImages/train_image44.jpg)
+![VOC_dipstick/JPEGImages/train_image13.jpg](VOC_dipstick/JPEGImages/train_image13.jpg)
 
 ## VOC format
 
@@ -29,6 +29,11 @@ ArrayName=(*)
 for var in "${ArrayName[@]}"
 do
 echo "${var/\.xml/}" >> ../ImageSets/Main/all.txt
+done
+count 
+for var in "${ArrayName[@]}"
+do
+echo mv "${var}"
 done
 
 ```
