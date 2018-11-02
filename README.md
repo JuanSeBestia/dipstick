@@ -8,6 +8,8 @@
 
 The images are of minimum 512 pixels and maximum 1024 pixels of withd or height, in some images it is obfuscated with black patches, because there were too many very small rods.
 
+In total dataset have 310 Annots edited with 71261 objects, max objects per file 566.
+
 ![VOC_dipstick/JPEGImages/train_image13.jpg](VOC_dipstick/JPEGImages/train_image13.jpg)
 
 ## VOC format
