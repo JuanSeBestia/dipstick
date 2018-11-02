@@ -1,7 +1,7 @@
 <annotation>
 	<folder>JPEGImages</folder>
 	<filename>train_201810_image103.jpg</filename>
-	<path>C:\Users\Georgi Molano\Google Drive\1) Inkremental\2) Proyectos\2) Proyectos Activos\69) SGS Conteo Barranquilla\2) Información\6) images512-1024p\train_201810\train_201810_image103.jpg</path>
+	<path>VOC_dipstick/JPEGImages/train_201810_image103.jpg</path>
 	<source>
 		<database>VOC_dipstick</database>
 	</source>

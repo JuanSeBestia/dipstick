@@ -1,7 +1,7 @@
 <annotation>
 	<folder>JPEGImages</folder>
 	<filename>image67.jpg</filename>
-	<path>/home/inkremental-8/Documents/count/JPEGImages/image67.jpg</path>
+	<path>VOC_dipstick/JPEGImages/image67.jpg</path>
 	<source>
 		<database>VOC_dipstick</database>
 	</source>
