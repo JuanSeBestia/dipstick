@@ -154,9 +154,9 @@ if __name__ == '__main__':
     argparser.add_argument(
         '-a', '--autofill', default='true', help='generate square imgs')
     argparser.add_argument(
-        '-m', '--maxsize', default='512', help='resize to 512')
+        '-m', '--maxsize', default='1024', help='resize to 512')
     argparser.add_argument(
-        '-n', '--minsize', default='512', help='min size allow')
+        '-n', '--minsize', default='1024', help='min size allow')
 
     args = argparser.parse_args()
     _main_(args)
